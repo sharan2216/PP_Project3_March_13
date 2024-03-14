@@ -6,6 +6,7 @@ with open("C:/Users/shashi/Desktop/machine learning.txt") as f:
             for word in words.split():
                 for ch in word.split():
                     print(ch,end='\n')
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 
@@ -18,3 +19,8 @@ with open("C:/Users/shashi/Desktop/machine learning.txt") as f:
 
 # new lines added here
 >>>>>>> Stashed changes
+=======
+
+
+# new lines added here
+>>>>>>> new_branch1
