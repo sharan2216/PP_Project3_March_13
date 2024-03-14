@@ -6,15 +6,12 @@ with open("C:/Users/shashi/Desktop/machine learning.txt") as f:
             for word in words.split():
                 for ch in word.split():
                     print(ch,end='\n')
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+# new lines added here
+
 
 
 # new lines added here
-=======
->>>>>>> Stashed changes
-=======
 
 
 # new lines added here
->>>>>>> Stashed changes
+
